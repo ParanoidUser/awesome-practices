@@ -1,6 +1,8 @@
 # Awesome Practices [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-> A curated list of best practices for software engineering 📚
+![banner](https://user-images.githubusercontent.com/5120290/213342525-d7aefbd0-1068-47bd-8a53-f0fb6f61a0dd.png)
+
+A curated list of best practices for software engineering.
 
 ## Resources
 
