@@ -20,7 +20,7 @@ A curated list of best practices, guidelines, standards, and conventions accepte
 
 ## Conventions
 
-- [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html) - Complete definition of Google's coding standards for source code in the Java programming language.
+- [Google Style Guides](https://google.github.io/styleguide/) - Complete definition of Google's coding standards for different languages.
 - [Command Line Interface Guidelines](https://clig.dev) - Guide to help you write better command-line programs.
 - [Google API Design Guide](https://cloud.google.com/apis/design/) - General design guide that Google follows when designing Cloud APIs and other Google APIs.
 - [Conventional Logs](https://www.conventionallogs.org) - Specification for adding human and machine-readable meaning to log messages.
