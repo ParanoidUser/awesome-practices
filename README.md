@@ -13,7 +13,7 @@ A curated list of best practices, guidelines, standards, and conventions accepte
 
 - [Google Engineering Practices](https://google.github.io/eng-practices/) - Collective experience of various best practices that were developed over time in Google.
 - [Maven Code Style and Code Conventions](https://maven.apache.org/developers/conventions/code.html) - Rules for how the sources should be formatted in order to improve consistency, readability, and maintainability.
-- [Material Design Guidelines](https://m2.material.io/design/guidelines-overview)
+- [Material Design Guidelines](https://m2.material.io/design/guidelines-overview) - Usability and platform guidance describe how to make sure your app is usable for all users.
 - [Google Best Practices for Java Libraries](https://jlbp.dev) - Rules that minimize problems for consumers of interconnected Java libraries.
 - [Kubernetes Configuration Best Practices](https://kubernetes.io/docs/concepts/configuration/overview/) - Consolidates configuration best practices that are introduced throughout the user guide, Getting Started documentation, and examples.
 - [EKS Best Practices Guides](https://aws.github.io/aws-eks-best-practices/) - Set of best practices for day 2 operations for Amazon EKS.
