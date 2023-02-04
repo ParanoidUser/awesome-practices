@@ -30,3 +30,4 @@ A curated list of best practices, guidelines, standards, and conventions accepte
 - [Conventional Comments](https://conventionalcomments.org) - Standard for formatting comments of any kind of review/feedback process.
 - [The Twelve-Factor App](https://12factor.net) - Methodology for building software-as-a-service applications.
 - [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/) - Helps cloud architects build secure, high-performing, resilient, and efficient infrastructure for a variety of applications and workloads.
+- [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework) - Provides recommendations and best practices for designing and operating a cloud topology.
