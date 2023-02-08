@@ -27,6 +27,7 @@ A curated list of best practices, guidelines, standards, and conventions accepte
 - [Conventional Logs](https://www.conventionallogs.org) - Specification for adding human and machine-readable meaning to log messages.
 - [Conventional Commits](https://www.conventionalcommits.org) - Specification for adding human and machine-readable meaning to commit messages.
 - [Semantic Versioning](https://semver.org) - Formal convention for determining the version number of new software releases.
+- [Keep Changelog](https://keepachangelog.com) - Guidelines for maintaining a curated, chronologically ordered list of notable changes for each version of a project.
 - [Code of Conduct for Open Source Communities](https://www.contributor-covenant.org) - Set of rules outlining the norms, rules, and responsibilities or proper practices of an individual party or an organization.
 - [Conventional Comments](https://conventionalcomments.org) - Standard for formatting comments of any kind of review/feedback process.
 - [The Twelve-Factor App](https://12factor.net) - Methodology for building software-as-a-service applications.
