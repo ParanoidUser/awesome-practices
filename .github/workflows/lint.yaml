@@ -1,7 +1,8 @@
 name: Awesome compliance
 
 on:
-  workflow_dispatch:
+  pull_request:
+    branches: [ main ]
 
 jobs:
   lint:
