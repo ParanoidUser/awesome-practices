@@ -34,3 +34,4 @@ A curated list of best practices, guidelines, standards, and conventions accepte
 - [The Twelve-Factor App](https://12factor.net) - Methodology for building software-as-a-service applications.
 - [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/) - Helps cloud architects build secure, high-performing, resilient, and efficient infrastructure for a variety of applications and workloads.
 - [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework) - Provides recommendations and best practices for designing and operating a cloud topology.
+- [Transparent Telemetry](https://research.swtch.com/telemetry) - Designed to give developers the information they need to be effective without having to track detailed user activity.
