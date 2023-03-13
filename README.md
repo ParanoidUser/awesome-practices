@@ -36,3 +36,4 @@ A curated list of best practices, guidelines, standards, and conventions accepte
 - [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/) - Helps cloud architects build secure, high-performing, resilient, and efficient infrastructure for a variety of applications and workloads.
 - [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework) - Provides recommendations and best practices for designing and operating a cloud topology.
 - [Transparent Telemetry](https://research.swtch.com/telemetry) - Designed to give developers the information they need to be effective without having to track detailed user activity.
+- [Style Guide for Protobuf](https://docs.buf.build/best-practices/style-guide/) - This document is meant as a short reference for developers to refer to when writing Protobuf schemas.
