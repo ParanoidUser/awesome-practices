@@ -37,4 +37,5 @@ A curated list of best practices, guidelines, standards, and conventions accepte
 - [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework) - Provides recommendations and best practices for designing and operating a cloud topology.
 - [Transparent Telemetry](https://research.swtch.com/telemetry) - Designed to give developers the information they need to be effective without having to track detailed user activity.
 - [Style Guide for Protobuf](https://docs.buf.build/best-practices/style-guide/) - This document is meant as a short reference for developers to refer to when writing Protobuf schemas.
+- [Trunk Based Development](https://trunkbaseddevelopment.com) - Version management practice where developers merge small, frequent updates into a "trunk" or main branch.
 - [Minimum Viable CD](https://minimumcd.org) - Set of practices that give the expected improvements to organizational structure that come with continuous delivery.
