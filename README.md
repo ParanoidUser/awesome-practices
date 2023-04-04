@@ -40,3 +40,4 @@ A curated list of best practices, guidelines, standards, and conventions accepte
 - [Trunk Based Development](https://trunkbaseddevelopment.com) - Version management practice where developers merge small, frequent updates into a "trunk" or main branch.
 - [Minimum Viable CD](https://minimumcd.org) - Set of practices that give the expected improvements to organizational structure that come with continuous delivery.
 - [GitLab Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/) - Standards for GitLab documentation, including grammar, formatting, word use, and more.
+- [Guide to Accessible Form Validation](https://www.smashingmagazine.com/2023/02/guide-accessible-form-validation/) - Considerations, so that nobody gets stuck on an inaccessible invalid field.
