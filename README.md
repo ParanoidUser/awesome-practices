@@ -41,3 +41,4 @@ A curated list of best practices, guidelines, standards, and conventions accepte
 - [Minimum Viable CD](https://minimumcd.org) - Set of practices that give the expected improvements to organizational structure that come with continuous delivery.
 - [GitLab Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/) - Standards for GitLab documentation, including grammar, formatting, word use, and more.
 - [Guide to Accessible Form Validation](https://www.smashingmagazine.com/2023/02/guide-accessible-form-validation/) - Considerations, so that nobody gets stuck on an inaccessible invalid field.
+- [Manifesto for Agile Software Development](https://agilemanifesto.org/iso/en/manifesto.html) - Outlines the central values and principles of Agile software development.
