@@ -20,6 +20,7 @@ A curated list of best practices, guidelines, standards, and conventions accepte
 - [Kubernetes Configuration Best Practices](https://kubernetes.io/docs/concepts/configuration/overview/) - Consolidates configuration best practices that are introduced throughout the user guide, Getting Started documentation, and examples.
 - [EKS Best Practices Guides](https://aws.github.io/aws-eks-best-practices/) - Set of best practices for day 2 operations for Amazon EKS.
 - [Laws of UX](https://lawsofux.com) - Collection of best practices that designers can consider when building user interfaces.
+- [MLOps Principles](https://ml-ops.org/content/mlops-principles) - Best practices and tools to test, deploy, manage, and monitor ML models in real-world production.
 
 ## Conventions
 
