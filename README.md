@@ -22,6 +22,7 @@ A curated list of best practices, guidelines, standards, and conventions accepte
 - [Laws of UX](https://lawsofux.com) - Collection of best practices that designers can consider when building user interfaces.
 - [MLOps Principles](https://ml-ops.org/content/mlops-principles) - Best practices and tools to test, deploy, manage, and monitor ML models in real-world production.
 - [Think Like (a) Git](https://think-like-a-git.net) - Guide to help understand how Git works under the hood.
+- [Principles of Green Software Engineering](https://principles.green) - Set of competencies needed to define, build and run green software applications.
 
 ## Conventions
 
