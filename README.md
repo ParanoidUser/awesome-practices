@@ -51,6 +51,7 @@ A curated list of best practices, guidelines, standards, and conventions accepte
 - [Semantic Versioning](https://semver.org) - Formal convention for determining the version number of new software releases.
 - [The Twelve-Factor App](https://12factor.net) - Methodology for building software-as-a-service applications.
 - [Trunk Based Development](https://trunkbaseddevelopment.com) - Version management practice where developers merge small, frequent updates into a "trunk" or main branch.
+- [Writing Better Release Notes](https://simonwillison.net/2022/Jan/31/release-notes/) - Some thoughts on how to write better release notes.
 
 ## Tools
 
