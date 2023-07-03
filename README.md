@@ -78,6 +78,7 @@ A curated list of best practices, guidelines, standards, and conventions accepte
 
 *Values and practices influencing software development.*
 
+- [Amazon Leadership Principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles) - Core principles for discussing ideas for new projects or deciding the best way to solve a problem in everyday life.
 - [Code of Conduct for Open Source Communities](https://www.contributor-covenant.org) - Set of rules outlining the norms, rules, and responsibilities or proper practices of an individual party or an organization.
 - [Conventional Comments](https://conventionalcomments.org) - Standard for formatting comments of any kind of review/feedback process.
 - [Principles of Green Software Engineering](https://principles.green) - Set of competencies needed to define, build and run green software applications.
