@@ -44,6 +44,7 @@ A curated list of best practices, guidelines, standards, and conventions accepte
 
 *Methods for software development, delivery, and maintenance.*
 
+- [The C4 Model](https://c4model.com) - An easy to learn, developer friendly approach to software architecture diagramming.
 - [Conventional Commits](https://www.conventionalcommits.org) - Specification for adding human and machine-readable meaning to commit messages.
 - [Functional Documentation](https://heydonworks.com/article/functional-documentation/) - Some collected thoughts and ideas around applying a functional approach to writing and maintaining documentation, especially for design systems.
 - [GitLab Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/) - Standards for GitLab documentation, including grammar, formatting, word use, and more.
