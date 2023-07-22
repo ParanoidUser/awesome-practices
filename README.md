@@ -19,6 +19,7 @@ A curated list of best practices, guidelines, standards, and conventions accepte
 *Creating user-friendly and visually appealing software interfaces.*
 
 - [8 Principles of Information Architecture](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/bult.2010.1720360609) - Eight principles to help designers make the right decisions when creating their build strategies.
+- [BEM Methodology](https://getbem.com) - Front-end naming method for organizing and naming CSS classes.
 - [Contrast Rebellion](https://contrastrebellion.com) - Multitude of accessibility problems with unreadable, low-contrast texts.
 - [Guide to Accessible Form Validation](https://www.smashingmagazine.com/2023/02/guide-accessible-form-validation/) - Considerations, so that nobody gets stuck on an inaccessible invalid field.
 - [Laws of UX](https://lawsofux.com) - Collection of best practices that designers can consider when building user interfaces.
