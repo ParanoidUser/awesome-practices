@@ -52,6 +52,7 @@ A curated list of best practices, guidelines, standards, and conventions accepte
 - [Keep Changelog](https://keepachangelog.com) - Guidelines for maintaining a curated, chronologically ordered list of notable changes for each version of a project.
 - [Manifesto for Agile Software Development](https://agilemanifesto.org/iso/en/manifesto.html) - Outlines the central values and principles of Agile software development.
 - [Minimum Viable CD](https://minimumcd.org) - Set of practices that give the expected improvements to organizational structure that come with continuous delivery.
+- [Open GitOps](https://opengitops.dev) - Set of open-source standards, best practices, and community-focused education to help organizations adopt a structured, standardized approach to implementing GitOps.
 - [Semantic Versioning](https://semver.org) - Formal convention for determining the version number of new software releases.
 - [The Twelve-Factor App](https://12factor.net) - Methodology for building software-as-a-service applications.
 - [Trunk Based Development](https://trunkbaseddevelopment.com) - Version management practice where developers merge small, frequent updates into a "trunk" or main branch.
