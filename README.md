@@ -78,6 +78,7 @@ A curated list of best practices, guidelines, standards, and conventions accepte
 *Protecting software from attacks and misuse.*
 
 - [OWASP Top 10](https://owasp.org/Top10/) - Standard awareness document for developers and web application security.
+- [TLS Cipher Suite Search](https://ciphersuite.info) - Searchable directory of TLS cipher suites and related security details.
 
 ## Culture
 
