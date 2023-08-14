@@ -45,7 +45,7 @@ A curated list of best practices, guidelines, standards, and conventions accepte
 
 *Methods for software development, delivery, and maintenance.*
 
-- [The C4 Model](https://c4model.com) - An easy to learn, developer friendly approach to software architecture diagramming.
+- [C4 Model](https://c4model.com) - An easy to learn, developer friendly approach to software architecture diagramming.
 - [Conventional Commits](https://www.conventionalcommits.org) - Specification for adding human and machine-readable meaning to commit messages.
 - [Functional Documentation](https://heydonworks.com/article/functional-documentation/) - Some collected thoughts and ideas around applying a functional approach to writing and maintaining documentation, especially for design systems.
 - [GitLab Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/) - Standards for GitLab documentation, including grammar, formatting, word use, and more.
@@ -53,6 +53,7 @@ A curated list of best practices, guidelines, standards, and conventions accepte
 - [Manifesto for Agile Software Development](https://agilemanifesto.org/iso/en/manifesto.html) - Outlines the central values and principles of Agile software development.
 - [Minimum Viable CD](https://minimumcd.org) - Set of practices that give the expected improvements to organizational structure that come with continuous delivery.
 - [Open GitOps](https://opengitops.dev) - Set of open-source standards, best practices, and community-focused education to help organizations adopt a structured, standardized approach to implementing GitOps.
+- [Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html) - Patterns that can allow teams to use branching effectively, concentrating around integrating the work of multiple developers and organizing the path to production releases.
 - [Semantic Versioning](https://semver.org) - Formal convention for determining the version number of new software releases.
 - [The Twelve-Factor App](https://12factor.net) - Methodology for building software-as-a-service applications.
 - [Trunk Based Development](https://trunkbaseddevelopment.com) - Version management practice where developers merge small, frequent updates into a "trunk" or main branch.
