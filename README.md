@@ -31,6 +31,7 @@ A curated list of best practices, guidelines, standards, and conventions accepte
 
 - [Android Developer Guides](https://developer.android.com/guide) - These documents teach you how to build Android apps using APIs in the Android framework and other libraries.
 - [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/) - Helps cloud architects build secure, high-performing, resilient, and efficient infrastructure for a variety of applications and workloads.
+- [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices) - This topic covers recommended best practices and methods for building efficient images.
 - [Conventional Logs](https://www.conventionallogs.org) - Specification for adding human and machine-readable meaning to log messages.
 - [EKS Best Practices Guides](https://aws.github.io/aws-eks-best-practices/) - Set of best practices for day 2 operations for Amazon EKS.
 - [Google API Design Guide](https://cloud.google.com/apis/design/) - General design guide that Google follows when designing Cloud APIs and other Google APIs.
