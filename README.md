@@ -50,6 +50,7 @@ A curated list of best practices, guidelines, standards, and conventions accepte
 - [Conventional Commits](https://www.conventionalcommits.org) - Specification for adding human and machine-readable meaning to commit messages.
 - [Functional Documentation](https://heydonworks.com/article/functional-documentation/) - Some collected thoughts and ideas around applying a functional approach to writing and maintaining documentation, especially for design systems.
 - [GitLab Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/) - Standards for GitLab documentation, including grammar, formatting, word use, and more.
+- [Java Design Patterns](https://java-design-patterns.com) - Software design patterns, principles, and snippets.
 - [Keep Changelog](https://keepachangelog.com) - Guidelines for maintaining a curated, chronologically ordered list of notable changes for each version of a project.
 - [Manifesto for Agile Software Development](https://agilemanifesto.org/iso/en/manifesto.html) - Outlines the central values and principles of Agile software development.
 - [Minimum Viable CD](https://minimumcd.org) - Set of practices that give the expected improvements to organizational structure that come with continuous delivery.
