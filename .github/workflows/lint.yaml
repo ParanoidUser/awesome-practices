@@ -14,9 +14,9 @@ jobs:
           fetch-depth: 0
 
       - name: Setup Node.js
-        uses: actions/setup-node@5e21ff4d9bc1a8cf6de233a3057d20ec6b3fb69d
+        uses: actions/setup-node@8f152de45cc393bb48ce5d89d36b731f54556e65
         with:
           node-version: 18
 
       - name: Run Awesome lint
-        run: npx awesome-lint@0.18.3 README.md
+        run: npx awesome-lint@1.0.0 README.md
