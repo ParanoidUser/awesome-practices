@@ -93,6 +93,7 @@ A curated list of best practices, guidelines, standards, and conventions accepte
 - [Code of Conduct for Open Source Communities](https://www.contributor-covenant.org) - Set of rules outlining the norms, rules, and responsibilities or proper practices of an individual party or an organization.
 - [Conventional Comments](https://conventionalcomments.org) - Standard for formatting comments of any kind of review/feedback process.
 - [Dangit, Git!?!](https://dangitgit.com) - List of common Git issues and ways to work around them.
+- [Open Source Guides](https://opensource.guide) - Collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open-source project.
 - [Principles of Green Software Engineering](https://principles.green) - Set of competencies needed to define, build and run green software applications.
 - [StaffEng](https://staffeng.com/guides) - Guides for reaching and succeeding at Staff-plus roles.
 - [Which Version of JDK Should I Use?](https://whichjdk.com) - This site gives independent, yet opinionated recommendations.
