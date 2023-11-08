@@ -68,6 +68,7 @@ A curated list of best practices, guidelines, standards, and conventions accepte
 
 - [Command Line Interface Guidelines](https://clig.dev) - Guide to help you write better command-line programs.
 - [Maven Code Style and Code Conventions](https://maven.apache.org/developers/conventions/code.html) - Rules for how the sources should be formatted in order to improve consistency, readability, and maintainability.
+- [Terraform Best Practices](https://www.terraform-best-practices.com) - Best practices for using Terraform and recommendations for the most common issues.
 - [Think Like (a) Git](https://think-like-a-git.net) - Guide to help understand how Git works under the hood.
 - [Typograms](https://google.github.io/typograms/) - Lightweight image format useful for defining simple diagrams in technical documentation.
 
