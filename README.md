@@ -82,6 +82,7 @@ A curated list of best practices, guidelines, standards, and conventions accepte
 
 *Protecting software from attacks and misuse.*
 
+- [Node.js Security Best Practices](https://nodejs.org/en/docs/guides/security) - This document intends to extend the current [threat model](https://github.com/nodejs/node/security/policy#the-nodejs-threat-model) and provide extensive guidelines on how to secure a Node.js application.
 - [OWASP Top 10](https://owasp.org/Top10/) - Standard awareness document for developers and web application security.
 - [TLS Cipher Suite Search](https://ciphersuite.info) - Searchable directory of TLS cipher suites and related security details.
 
