@@ -19,4 +19,4 @@ jobs:
           node-version: 18
 
       - name: Run Awesome lint
-        run: npx awesome-lint@1.0.0 README.md
+        run: npx awesome-lint@1.0.1 README.md
