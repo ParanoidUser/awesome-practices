@@ -40,7 +40,7 @@ A curated list of best practices, guidelines, standards, and conventions accepte
 - [Google Engineering Practices](https://google.github.io/eng-practices/) - Collective experience of various best practices that were developed over time in Google.
 - [Google Style Guides](https://google.github.io/styleguide/) - Complete definition of Google's coding standards for different languages.
 - [Guiding Principles of REST](https://restfulapi.net/rest-architectural-constraints/) - Guiding principles for designing loosely coupled applications over the network.
-- [Hitchhiker’s Guide to Python!](https://docs.python-guide.org) - Best practice handbook for the installation, configuration, and usage of Python on a daily basis.
+- [Hitchhiker's Guide to Python!](https://docs.python-guide.org) - Best practice handbook for the installation, configuration, and usage of Python on a daily basis.
 - [Style Guide for Protobuf](https://docs.buf.build/best-practices/style-guide/) - This document is meant as a short reference for developers to refer to when writing Protobuf schemas.
 - [Kubernetes Configuration Best Practices](https://kubernetes.io/docs/concepts/configuration/overview/) - Consolidates configuration best practices that are introduced throughout the user guide, Getting Started documentation, and examples.
 
