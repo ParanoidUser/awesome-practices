@@ -67,6 +67,7 @@ A curated list of best practices, guidelines, standards, and conventions accepte
 
 *Software and hardware for software development and testing.*
 
+- [Choose a License](https://choosealicense.com) - Non-judgmental guidance on choosing a license for your open source project.
 - [Command Line Interface Guidelines](https://clig.dev) - Guide to help you write better command-line programs.
 - [Command-not-found](https://command-not-found.com) - Helpful tool for installing any command on any operating system.
 - [End-of-life](https://endoflife.date) - Documents EOL dates and support lifecycles for various products.
