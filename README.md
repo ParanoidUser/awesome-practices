@@ -71,7 +71,7 @@ A curated list of best practices, guidelines, standards, and conventions accepte
 - [Command Line Interface Guidelines](https://clig.dev) - Guide to help you write better command-line programs.
 - [Command-not-found](https://command-not-found.com) - Helpful tool for installing any command on any operating system.
 - [End-of-life](https://endoflife.date) - Documents EOL dates and support lifecycles for various products.
-- [IP Guide](https://ip.guide) - An easy to use API for looking up IP, Network, and ASN data.
+- [IP Guide](https://ip.guide) - Easy to use API for looking up IP, Network, and ASN data.
 - [Maven Code Style and Code Conventions](https://maven.apache.org/developers/conventions/code.html) - Rules for how the sources should be formatted in order to improve consistency, readability, and maintainability.
 - [Terraform Best Practices](https://www.terraform-best-practices.com) - Best practices for using Terraform and recommendations for the most common issues.
 - [Think Like (a) Git](https://think-like-a-git.net) - Guide to help understand how Git works under the hood.
