@@ -57,6 +57,7 @@ A curated list of best practices, guidelines, standards, and conventions accepte
 - [Java Design Patterns](https://java-design-patterns.com) - Software design patterns, principles, and snippets.
 - [Keep Changelog](https://keepachangelog.com) - Guidelines for maintaining a curated, chronologically ordered list of notable changes for each version of a project.
 - [Manifesto for Agile Software Development](https://agilemanifesto.org/iso/en/manifesto.html) - Outlines the central values and principles of Agile software development.
+- [Manifesto for Fluid Software Development](https://fluidmanifesto.org) - Defines a new approach to software development focused on fluidity and adaptability.
 - [Minimum Viable CD](https://minimumcd.org) - Set of practices that give the expected improvements to organizational structure that come with continuous delivery.
 - [Open GitOps](https://opengitops.dev) - Set of open-source standards, best practices, and community-focused education to help organizations adopt a structured, standardized approach to implementing GitOps.
 - [Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html) - Patterns that can allow teams to use branching effectively, concentrating around integrating the work of multiple developers and organizing the path to production releases.
