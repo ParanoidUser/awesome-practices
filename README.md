@@ -4,16 +4,6 @@
 
 A curated list of best practices, guidelines, standards, and conventions accepted for software engineering.
 
-## Contents
-
-- [Design](#design)
-- [Development](#development)
-- [Methodology](#methodology)
-- [Tools](#tools)
-- [Data](#data)
-- [Security](#security)
-- [Culture](#culture)
-
 ## Design
 
 *Creating user-friendly and visually appealing software interfaces.*
