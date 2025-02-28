@@ -107,6 +107,7 @@ A curated list of best practices, guidelines, standards, and conventions accepte
 - [Code of Conduct for Open Source Communities](https://www.contributor-covenant.org) - Set of rules outlining the norms, rules, and responsibilities or proper practices of an individual party or an organization.
 - [Conventional Comments](https://conventionalcomments.org) - Standard for formatting comments of any kind of review/feedback process.
 - [Dangit, Git!?!](https://dangitgit.com) - List of common Git issues and ways to work around them.
+- [Developer Marketing Guide](https://www.devmarketingguide.com) - Learn about essential developer content types, distribution plans, community projects, tools, services, and more.
 - [Developer Roadmaps](https://roadmap.sh) - Step-by-step guides and paths to learn different tools or technologies.
 - [JSON Resume](https://jsonresume.org) - Open source initiative to create a JSON-based standard for resumes.
 - [Open Source Guides](https://opensource.guide) - Collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open-source project.
