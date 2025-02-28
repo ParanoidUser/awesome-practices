@@ -106,6 +106,7 @@ A curated list of best practices, guidelines, standards, and conventions accepte
 - [Amazon Leadership Principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles) - Core principles for discussing ideas for new projects or deciding the best way to solve a problem in everyday life.
 - [Code of Conduct for Open Source Communities](https://www.contributor-covenant.org) - Set of rules outlining the norms, rules, and responsibilities or proper practices of an individual party or an organization.
 - [Conventional Comments](https://conventionalcomments.org) - Standard for formatting comments of any kind of review/feedback process.
+- [DORA Guides](https://dora.dev/guides/) - Long running research program that seeks to understand the capabilities that drive software delivery and operations performance.
 - [Dangit, Git!?!](https://dangitgit.com) - List of common Git issues and ways to work around them.
 - [Developer Marketing Guide](https://www.devmarketingguide.com) - Learn about essential developer content types, distribution plans, community projects, tools, services, and more.
 - [Developer Roadmaps](https://roadmap.sh) - Step-by-step guides and paths to learn different tools or technologies.
