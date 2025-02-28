@@ -42,6 +42,7 @@ A curated list of best practices, guidelines, standards, and conventions accepte
 - [Google Style Guides](https://google.github.io/styleguide/) - Complete definition of Google's coding standards for different languages.
 - [Guiding Principles of REST](https://restfulapi.net/rest-architectural-constraints/) - Guiding principles for designing loosely coupled applications over the network.
 - [Hitchhiker's Guide to Python!](https://docs.python-guide.org) - Best practice handbook for the installation, configuration, and usage of Python on a daily basis.
+- [Java Version Almanac](https://javaalmanac.io) - Systematic collection of information about the history and the future of Java.
 - [OpenFeature](https://openfeature.dev) - Open specification that provides a vendor-agnostic, community-driven API for feature flagging that works with your favorite feature flag management tool.
 - [Prompt Engineering](https://www.promptingguide.ai) - Project by DAIR.AI that aims to educate researchers and practitioners about prompt engineering.
 - [Style Guide for Protobuf](https://docs.buf.build/best-practices/style-guide/) - This document is meant as a short reference for developers to refer to when writing Protobuf schemas.
