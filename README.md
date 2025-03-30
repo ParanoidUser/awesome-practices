@@ -111,6 +111,7 @@ A curated list of best practices, guidelines, standards, and conventions accepte
 - [Dangit, Git!?!](https://dangitgit.com) - List of common Git issues and ways to work around them.
 - [Developer Marketing Guide](https://www.devmarketingguide.com) - Learn about essential developer content types, distribution plans, community projects, tools, services, and more.
 - [Developer Roadmaps](https://roadmap.sh) - Step-by-step guides and paths to learn different tools or technologies.
+- [Hacker Laws](https://hacker-laws.com) - Laws, Theories, Principles and Patterns that developers will find useful.
 - [JSON Resume](https://jsonresume.org) - Open source initiative to create a JSON-based standard for resumes.
 - [Open Source Guides](https://opensource.guide) - Collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open-source project.
 - [Principles of Green Software Engineering](https://principles.green) - Set of competencies needed to define, build and run green software applications.
