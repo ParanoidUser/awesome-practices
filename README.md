@@ -36,6 +36,7 @@ A curated list of best practices, guidelines, standards, and conventions accepte
 - [Conventional Logs](https://www.conventionallogs.org) - Specification for adding human and machine-readable meaning to log messages.
 - [EKS Best Practices Guides](https://aws.github.io/aws-eks-best-practices/) - Set of best practices for day 2 operations for Amazon EKS.
 - [Google API Design Guide](https://cloud.google.com/apis/design/) - General design guide that Google follows when designing Cloud APIs and other Google APIs.
+- [Go Optimization Guide](https://goperf.dev) - Patterns and Techniques for Writing High-Performance Applications with Go.
 - [Google Best Practices for Java Libraries](https://jlbp.dev) - Rules that minimize problems for consumers of interconnected Java libraries.
 - [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework) - Provides recommendations and best practices for designing and operating a cloud topology.
 - [Google Engineering Practices](https://google.github.io/eng-practices/) - Collective experience of various best practices that were developed over time in Google.
