@@ -66,7 +66,7 @@ A curated list of best practices, guidelines, standards, and conventions accepte
 - [Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html) - Patterns that can allow teams to use branching effectively, concentrating around integrating the work of multiple developers and organizing the path to production releases.
 - [Semantic Versioning](https://semver.org) - Formal convention for determining the version number of new software releases.
 - [The Twelve-Factor App](https://12factor.net) - Methodology for building software-as-a-service applications.
-- [Trunk Based Development](https://trunkbaseddevelopment.com) - Version management practice where developers merge small, frequent updates into a \"trunk\" or main branch.
+- [Trunk Based Development](https://trunkbaseddevelopment.com) - Version management practice where developers merge small, frequent updates into a “trunk” or main branch.
 - [Write the Docs](https://www.writethedocs.org/guide/) - Collective wisdom of the Write the Docs community around best practices for creating software documentation.
 - [Writing Better Release Notes](https://simonwillison.net/2022/Jan/31/release-notes/) - Some thoughts on how to write better release notes.
 
