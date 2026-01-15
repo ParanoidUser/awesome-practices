@@ -55,6 +55,7 @@ A curated list of best practices, guidelines, standards, and conventions accepte
 - [Minimum Viable CD](https://minimumcd.org) - Set of practices that give the expected improvements to organizational structure that come with continuous delivery.
 - [Open GitOps](https://opengitops.dev) - Set of open-source standards, best practices, and community-focused education to help organizations adopt a structured, standardized approach to implementing GitOps.
 - [Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html) - Patterns that can allow teams to use branching effectively, concentrating around integrating the work of multiple developers and organizing the path to production releases.
+- [Scrum Guides](https://scrumguides.org) - Scrum is a framework for developing and sustaining complex products. This Guide contains the definition of Scrum.
 - [Semantic Versioning](https://semver.org) - Formal convention for determining the version number of new software releases.
 - [The Twelve-Factor App](https://12factor.net) - Methodology for building software-as-a-service applications.
 - [Trunk Based Development](https://trunkbaseddevelopment.com) - Version management practice where developers merge small, frequent updates into a “trunk” or main branch.
