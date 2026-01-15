@@ -48,6 +48,7 @@ A curated list of best practices, guidelines, standards, and conventions accepte
 - [Functional Documentation](https://heydonworks.com/article/functional-documentation/) - Some collected thoughts and ideas around applying a functional approach to writing and maintaining documentation, especially for design systems.
 - [GitLab Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/) - Standards for GitLab documentation, including grammar, formatting, word use, and more.
 - [Java Design Patterns](https://java-design-patterns.com) - Software design patterns, principles, and snippets.
+- [Kanban Guides](https://kanbanguides.org) - Learn what Kanban is and how to apply it to optimise the flow of value through a process.
 - [Keep Changelog](https://keepachangelog.com) - Guidelines for maintaining a curated, chronologically ordered list of notable changes for each version of a project.
 - [Manifesto for Agile Software Development](https://agilemanifesto.org/iso/en/manifesto.html) - Outlines the central values and principles of Agile software development.
 - [Manifesto for Fluid Software Development](https://fluidmanifesto.org) - Defines a new approach to software development focused on fluidity and adaptability.
