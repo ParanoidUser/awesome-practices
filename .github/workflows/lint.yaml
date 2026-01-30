@@ -3,20 +3,23 @@ name: Awesome compliance
 on:
   pull_request:
     branches: [ main ]
+  schedule:
+    - cron: '0 0 * * 0'
 
 jobs:
   lint:
     runs-on: ubuntu-22.04
     steps:
       - name: Checkout repository
-        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd  # v6.0.2
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
         with:
           fetch-depth: 0
 
-      - name: Setup Node.js
-        uses: actions/setup-node@6044e13b5dc448c55e2357c09f80417699197238 # v6.2.0
-        with:
-          node-version: 24
-
       - name: Run Awesome lint
-        run: npx awesome-lint@2.2.2 README.md
+        run: npx awesome-lint@2 README.md
+
+      - name: Check links
+        uses: lycheeverse/lychee-action@a8c4c7cb88f0c7386610c35eb25108e448569cb0 # v2.7.0
+        with:
+          fail: true
+          args: --user-agent "Mozilla/5.0 Chrome/120" README.md
