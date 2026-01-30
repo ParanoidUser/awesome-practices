@@ -21,5 +21,7 @@ jobs:
       - name: Check links
         uses: lycheeverse/lychee-action@a8c4c7cb88f0c7386610c35eb25108e448569cb0 # v2.7.0
         with:
-          args: README.md
           fail: true
+          args: |
+            --user-agent "Mozilla/5.0 Chrome/120"
+            README.md
