@@ -6,7 +6,6 @@ Guidelines, standards, and conventions that shape how software gets built.
 
 *Creating interfaces that are usable and accessible.*
 
-- [8 Principles of Information Architecture](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/bult.2010.1720360609) - Principles for organizing and structuring content to improve findability and usability.
 - [A11Y Project](https://www.a11yproject.com/checklist/) - Checklist and resources for implementing web accessibility.
 - [BEM Methodology](https://getbem.com) - Naming convention for organizing CSS classes into reusable components.
 - [Contrast Rebellion](https://contrastrebellion.com) - Manifesto advocating for readable, high-contrast text in web design.
@@ -18,15 +17,15 @@ Guidelines, standards, and conventions that shape how software gets built.
 
 *Writing code with languages, frameworks, and platforms.*
 
-- [Android Developer Guides](https://developer.android.com/guide) - Official guidance for building Android apps with framework APIs.
+- [Android Developer Guides](https://developer.android.com/get-started/overview) - Official guidance for building Android apps with framework APIs.
 - [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/) - Framework for building secure, resilient, and efficient cloud infrastructure.
-- [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices) - Recommendations for building efficient and maintainable container images.
+- [Best practices for writing Dockerfiles](https://docs.docker.com/build/building/best-practices/) - Recommendations for building efficient and maintainable container images.
 - [Command Line Interface Guidelines](https://clig.dev) - Patterns for designing user-friendly command-line programs.
 - [EKS Best Practices Guides](https://aws.github.io/aws-eks-best-practices/) - Operational guidance for running Kubernetes on Amazon EKS.
-- [Google API Design Guide](https://cloud.google.com/apis/design/) - Standards for designing consistent and intuitive APIs.
+- [Google API Design Guide](https://docs.cloud.google.com/apis/design) - Standards for designing consistent and intuitive APIs.
 - [Go Optimization Guide](https://goperf.dev) - Techniques for writing high-performance Go applications.
 - [Google Best Practices for Java Libraries](https://jlbp.dev) - Rules for building compatible and maintainable Java libraries.
-- [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework) - Principles for designing and operating cloud infrastructure.
+- [Google Cloud Architecture Framework](https://docs.cloud.google.com/architecture/framework) - Principles for designing and operating cloud infrastructure.
 - [Google Engineering Practices](https://google.github.io/eng-practices/) - Guidelines for code review and development workflows at Google.
 - [Google Style Guides](https://google.github.io/styleguide/) - Coding standards for multiple programming languages.
 - [Guiding Principles of REST](https://restfulapi.net/rest-architectural-constraints/) - Architectural constraints for designing RESTful APIs.
@@ -34,9 +33,9 @@ Guidelines, standards, and conventions that shape how software gets built.
 - [Java Version Almanac](https://javaalmanac.io) - Reference for Java version history and feature changes.
 - [OpenFeature](https://openfeature.dev) - Vendor-agnostic specification for feature flag management.
 - [Prompt Engineering](https://www.promptingguide.ai) - Techniques for crafting effective prompts for language models.
-- [Style Guide for Protobuf](https://docs.buf.build/best-practices/style-guide/) - Conventions for writing Protocol Buffer schemas.
+- [Style Guide for Protobuf](https://buf.build/docs/best-practices/style-guide/) - Conventions for writing Protocol Buffer schemas.
 - [Java Design Patterns](https://java-design-patterns.com) - Catalog of software design patterns with Java examples.
-- [Kubernetes Configuration Best Practices](https://kubernetes.io/docs/concepts/configuration/overview/) - Guidelines for configuring Kubernetes workloads.
+- [Kubernetes Configuration Best Practices](https://kubernetes.io/blog/2025/11/25/configuration-good-practices/) - Guidelines for configuring Kubernetes workloads.
 - [Maven Code Style and Code Conventions](https://maven.apache.org/developers/conventions/code.html) - Formatting standards for Maven project source code.
 - [Terraform Best Practices](https://www.terraform-best-practices.com) - Patterns for writing maintainable infrastructure as code.
 
@@ -50,7 +49,7 @@ Guidelines, standards, and conventions that shape how software gets built.
 - [Conventional Logs](https://www.conventionallogs.org) - Specification for structured, machine-readable log messages.
 - [DORA Guides](https://dora.dev/guides/) - Research-backed practices that drive software delivery performance.
 - [Functional Documentation](https://heydonworks.com/article/functional-documentation/) - Approach for writing maintainable documentation for design systems.
-- [GitLab Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/) - Standards for grammar, formatting, and structure in technical writing.
+- [GitLab Documentation Style Guide](https://docs.gitlab.com/development/documentation/styleguide/) - Standards for grammar, formatting, and structure in technical writing.
 - [Kanban Guides](https://kanbanguides.org) - Framework for optimizing workflow and delivery through visual management.
 - [Keep Changelog](https://keepachangelog.com) - Format for maintaining human-readable project change history.
 - [Manifesto for Agile Software Development](https://agilemanifesto.org/iso/en/manifesto.html) - Core values and principles behind Agile methodologies.
@@ -75,7 +74,7 @@ Guidelines, standards, and conventions that shape how software gets built.
 - [Command-not-found](https://command-not-found.com) - Lookup tool for finding package installation commands across operating systems.
 - [Dangit, Git!?!](https://dangitgit.com) - Solutions for common Git mistakes and how to fix them.
 - [End-of-life](https://endoflife.date) - Reference for product EOL dates and support lifecycles.
-- [Gitignore](https://gitignore.io) - Generator for creating .gitignore files for any tech stack.
+- [Gitignore](https://www.toptal.com/developers/gitignore/) - Generator for creating .gitignore files for any tech stack.
 - [IP Guide](https://ip.guide) - API for looking up IP addresses, networks, and ASN data.
 - [JSON Resume](https://jsonresume.org) - Standard format for creating machine-readable resumes.
 - [Mozilla SSL Configuration Generator](https://ssl-config.mozilla.org) - Generator for secure TLS configurations across web servers.
@@ -87,7 +86,7 @@ Guidelines, standards, and conventions that shape how software gets built.
 
 *Protecting systems from vulnerabilities and attacks.*
 
-- [Node.js Security Best Practices](https://nodejs.org/en/docs/guides/security) - Guidelines for securing Node.js applications against common threats.
+- [Node.js Security Best Practices](https://nodejs.org/en/learn/getting-started/security-best-practices) - Guidelines for securing Node.js applications against common threats.
 - [OWASP Top 10](https://owasp.org/Top10/) - Ranking of the most critical web application security risks.
 - [security.txt](https://securitytxt.org) - Standard for publishing security contact information on websites.
 - [TLS Cipher Suite Search](https://ciphersuite.info) - Reference for TLS cipher suites and their security properties.
@@ -103,4 +102,4 @@ Guidelines, standards, and conventions that shape how software gets built.
 - [Hacker Laws](https://hacker-laws.com) - Mental models and principles relevant to software development.
 - [Open Source Guides](https://opensource.guide) - Resources for starting and contributing to open source projects.
 - [Principles of Green Software Engineering](https://principles.green) - Practices for building environmentally sustainable software.
-- [StaffEng](https://staffeng.com/guides) - Guidance for reaching and succeeding in Staff-plus engineering roles.
+- [StaffEng](https://staffeng.com/guides/) - Guidance for reaching and succeeding in Staff-plus engineering roles.
