@@ -19,7 +19,33 @@ jobs:
         run: npx awesome-lint@2 README.md
 
       - name: Check links
+        id: lychee
+        continue-on-error: true
         uses: lycheeverse/lychee-action@8646ba30535128ac92d33dfc9133794bfdd9b411 # v2.8.0
         with:
           fail: true
-          args: --user-agent "Mozilla/5.0 Chrome/120" README.md
+          args: >-
+            --user-agent "Mozilla/5.0 Chrome/120"
+            --max-concurrency 10
+            --host-concurrency 2
+            README.md
+
+      - name: Retry link verification
+        id: lychee_retry
+        if: steps.lychee.outcome == 'failure'
+        continue-on-error: true
+        uses: lycheeverse/lychee-action@8646ba30535128ac92d33dfc9133794bfdd9b411 # v2.8.0
+        with:
+          fail: true
+          args: >-
+            --user-agent "Mozilla/5.0 Chrome/120"
+            --max-concurrency 10
+            --host-concurrency 2
+            README.md
+
+      - name: Fail if link verification still fails
+        if: >-
+          always() &&
+          steps.lychee.outcome == 'failure' &&
+          steps.lychee_retry.outcome == 'failure'
+        run: exit 1

@@ -7,7 +7,7 @@ Guidelines, standards, and conventions that shape how software gets built.
 *Creating interfaces that are usable and accessible.*
 
 - [A11Y Project](https://www.a11yproject.com/checklist/) - Checklist and resources for implementing web accessibility.
-- [BEM Methodology](https://getbem.com) - Naming convention for organizing CSS classes into reusable components.
+- [BEM Methodology](https://en.bem.info) - Naming convention for organizing CSS classes into reusable components.
 - [Contrast Rebellion](https://contrastrebellion.com) - Manifesto advocating for readable, high-contrast text in web design.
 - [Guide to Accessible Form Validation](https://www.smashingmagazine.com/2023/02/guide-accessible-form-validation/) - Patterns for creating form validation that works for all users.
 - [Laws of UX](https://lawsofux.com) - Psychological principles that influence user interface design.
